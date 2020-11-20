@@ -6,6 +6,7 @@
 
 
 ## Associated Domains Entitlement
+Add apple-app-site-association to server root
 Add "appclips:maochuns.github.io" to "Associated Domains" in both original project target and its clip target
 
 
