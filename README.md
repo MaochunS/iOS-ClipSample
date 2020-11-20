@@ -6,8 +6,8 @@
 
 
 ## Associated Domains Entitlement
-Add apple-app-site-association to server root
-Add "appclips:maochuns.github.io" to "Associated Domains" in both original project target and its clip target
+<li>Add apple-app-site-association to server root.</li>
+<li>Add "appclips:maochuns.github.io" to "Associated Domains" in both original project target and its clip target.</li>
 
 
 ## Validate the AASA
